@@ -10,13 +10,7 @@
 > [中文文档](README_ZH.md) | English
 
 
-## ⚠️ Update March 2, 2023
 
-工作原因，暂不维护了，官方推荐项目，有条件的朋友自己集成：
-
-https://github.com/transitive-bullshit/chatgpt-api
-
-https://github.com/PawanOsman/ChatGPT-Official
 
 
 百花齐放了属于是🐶
