@@ -18,11 +18,6 @@ https://github.com/transitive-bullshit/chatgpt-api
 
 https://github.com/PawanOsman/ChatGPT-Official
 
-https://github.com/acheong08/ChatGPT
-
-https://github.com/waylaidwanderer/node-chatgpt-api
-
-https://github.com/acheong08/EdgeGPT
 
 百花齐放了属于是🐶
 OpenAI也开始卖model了
